@@ -1,0 +1,13 @@
+strong{
+    color: red;
+}
+
+
+body{
+    font-size: 32px;
+    
+}
+
+body>em{
+    color: blue;
+}
